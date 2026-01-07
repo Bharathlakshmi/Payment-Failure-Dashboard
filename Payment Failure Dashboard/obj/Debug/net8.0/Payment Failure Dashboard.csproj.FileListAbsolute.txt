@@ -1,0 +1,348 @@
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\appsettings.Development.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\appsettings.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.staticwebassets.endpoints.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.exe
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.deps.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.runtimeconfig.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.pdb
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Azure.Core.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Azure.Identity.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Humanizer.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.ClientModel.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.CodeDom.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Memory.Data.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Text.Json.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.csproj.AssemblyReference.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.AssemblyInfoInputs.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.AssemblyInfo.cs
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.csproj.CoreCompileInputs.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.MvcApplicationPartsAssemblyInfo.cs
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\scopedcss\bundle\Payment Failure Dashboard.styles.css
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.development.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment .1DB99F30.Up2Date
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\refint\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.pdb
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.genruntimeconfig.cache
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\obj\Debug\net8.0\ref\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\KANINI\Payment Failure Dashboard\Payment Failure Dashboard\bin\Debug\net8.0\Razorpay.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\appsettings.Development.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\appsettings.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.staticwebassets.endpoints.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.exe
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.deps.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.runtimeconfig.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Payment Failure Dashboard.pdb
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Azure.Core.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Azure.Identity.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Humanizer.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Razorpay.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.ClientModel.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.CodeDom.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Memory.Data.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Text.Json.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.csproj.AssemblyReference.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.AssemblyInfoInputs.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.AssemblyInfo.cs
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.csproj.CoreCompileInputs.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.MvcApplicationPartsAssemblyInfo.cs
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\scopedcss\bundle\Payment Failure Dashboard.styles.css
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.development.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment .1DB99F30.Up2Date
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\refint\Payment Failure Dashboard.dll
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.pdb
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\Payment Failure Dashboard.genruntimeconfig.cache
+D:\KANINI\Payment Failure Dashboard - Copy\Payment Failure Dashboard\obj\Debug\net8.0\ref\Payment Failure Dashboard.dll

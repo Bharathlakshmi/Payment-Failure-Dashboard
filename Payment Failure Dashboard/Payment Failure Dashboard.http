@@ -1,0 +1,6 @@
+@Payment_Failure_Dashboard_HostAddress = http://localhost:5034
+
+GET {{Payment_Failure_Dashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
